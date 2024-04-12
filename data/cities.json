@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "d083",
+      "cityName": "Jaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-12T04:27:06.548Z",
+      "notes": "A great experience",
+      "position": {
+        "lat": "26.892679095908164",
+        "lng": "75.82763671875001"
+      }
+    },
+    {
+      "id": "b4b6",
+      "cityName": "Varanasi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-12T04:28:01.040Z",
+      "notes": "A great place for spiritual people",
+      "position": {
+        "lat": "25.334096684794456",
+        "lng": "83.00170898437501"
+      }
+    },
+    {
+      "id": "4ce4",
+      "cityName": "Amritsar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-12T04:29:25.144Z",
+      "notes": "",
+      "position": {
+        "lat": "31.634675549541356",
+        "lng": "74.86633300781251"
+      }
+    }
+  ]
+}
